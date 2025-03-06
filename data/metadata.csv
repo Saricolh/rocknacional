@@ -1,5 +1,6 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,ubicación,fecha,soporte,autor
+1,El concierto de la nueva generación Soda Stereo,Plaza de Toros la Macarena,9/23/1988,Prensa,El Tiempo
+2,Los toreros muertos en vivo,Coliseo Cubierto Iván de Bedout,9/23/1988,Prensa,El Mundo
+3,Bogotá Capital del Rock,"Bogotá, D.C.",9/11/1988,Prensa,El Mundo
+4,Rock en los tiempo del ruido,"Bogotá, D.C.",4/23/1989,Prensa,La Prensa
+5,Festival de bandas,Plaza de Toros la Macarena,9/23/1988,Prensa,La Prensa

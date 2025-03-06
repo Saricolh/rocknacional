@@ -1,0 +1,42 @@
+{
+  "id": "https://Saricolh.github.io/rocknacional/iiif/2/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Los toreros muertos en vivo"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://Saricolh.github.io/rocknacional/iiif/2/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://Saricolh.github.io/rocknacional/iiif/2/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://Saricolh.github.io/rocknacional/iiif/2/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://Saricolh.github.io/rocknacional/iiif/2/manifest/canvas-0.json",
+              "body": {
+                "id": "https://Saricolh.github.io/rocknacional/iiif/2/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3072,
+                "width": 4096
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 4096,
+      "height": 3072,
+      "annotations": []
+    }
+  ]
+}

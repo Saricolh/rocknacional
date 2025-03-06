@@ -1,38 +1,47 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
+  "base": "https://Saricolh.github.io",
+  "baseurl": "/rocknacional",
+  "title": "Rock Nacional de Colombia",
+  "subtitle": "Rock en la prensa",
   "credits": "Por Sergio Rodríguez Gómez",
-  "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
+  "copyright": "Todos los derechos reservados, 2025",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
         "key": "label",
-        "label": "Nombre",
+        "label": "Label",
         "type": "text"
       },
       {
-        "key": "autor",
-        "label": "Autor",
+        "key": "ubicación",
+        "label": "Ubicación",
         "type": "text"
       },
       {
         "key": "fecha",
         "label": "Fecha",
         "type": "text"
+      },
+      {
+        "key": "soporte",
+        "label": "Soporte",
+        "type": "text"
+      },
+      {
+        "key": "autor",
+        "label": "Autor",
+        "type": "text"
       }
     ],
     "metadataToIndex": [
       "label",
-      "autor",
-      "fecha"
+      "ubicación",
+      "fecha",
+      "soporte",
+      "autor"
     ]
   }
 };

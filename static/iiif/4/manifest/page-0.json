@@ -1,0 +1,21 @@
+{
+  "id": "https://Saricolh.github.io/rocknacional/iiif/4/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://Saricolh.github.io/rocknacional/iiif/4/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://Saricolh.github.io/rocknacional/iiif/4/manifest/canvas-0.json",
+      "body": {
+        "id": "https://Saricolh.github.io/rocknacional/iiif/4/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 4160,
+        "width": 3120
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}
